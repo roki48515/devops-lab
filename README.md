@@ -10,3 +10,4 @@ Laboratorium nauki DevOps: GitHub → GitHub Actions → Terraform → AWS (w ty
 
 > Repo publiczne – bez danych klientów, hostów, IP i sekretów.
 test
+test
