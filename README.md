@@ -9,3 +9,4 @@ Laboratorium nauki DevOps: GitHub → GitHub Actions → Terraform → AWS (w ty
 | `terraform/` | Infrastruktura AWS jako kod |
 
 > Repo publiczne – bez danych klientów, hostów, IP i sekretów.
+test
